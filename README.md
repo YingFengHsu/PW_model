@@ -2,7 +2,7 @@
 
 2. XGBoost code (pw_model_build.py)
 
-3. Hyperparameter Tuning code (pw_model_build.py)
+3. Hyperparameter Tuning code (Pw_model_build_edge_lenovo_demo.py)
 
 4. sample_data (sample_data.csv)
 
