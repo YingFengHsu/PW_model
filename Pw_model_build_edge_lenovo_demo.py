@@ -15,7 +15,7 @@ import numpy as np
 import joblib
 
 # Load your dataset (this is just sample file)
-ML_data = pd.read_csv("org_training_data.csv")
+ML_data = pd.read_csv("sample_data.csv")
 
 # Define the features (X) and the target (y)
 X = ML_data.drop(columns='power')
