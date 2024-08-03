@@ -1,4 +1,4 @@
-1. Power consumption model of Lenovo server (e_lenovl.pkl)
+1. Power consumption model of Lenovo server (best_lenovo_xgboost_model.pkl)
 
 2. XGBoost code (pw_model_build.py)
 
